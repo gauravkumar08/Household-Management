@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
  int main()
 {
 	int h_rent,health,education,expenses,savings,tar_percent,income,g_bill,i_bill,e_bill,insurance,other;
